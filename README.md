@@ -1,2 +1,2 @@
-# ordercity-sdk
+# Ordercity-sdk
 Ordercity Javascript SDK.
